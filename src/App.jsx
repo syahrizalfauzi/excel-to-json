@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div>
-      <h3>Input file .xlsx</h3>
+      <h3>Input file .XLSX</h3>
       <input
         type="file"
         onChange={handleUpload}
